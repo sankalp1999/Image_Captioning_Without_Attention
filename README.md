@@ -2,18 +2,15 @@
 
 # Image-captioning using Resnet-50, LSTM and Greedy Search
 
----
 
 This repository contains the code and the files for the implementation of the Image captioning model. The implementation is similar to proposed in the paper [Show and Tell](https://arxiv.org/abs/1411.4555).
 
 This project is a stepping stone towards the version with Soft attention which has several differences in its implementation. You can check out the attention version [here.](https://github.com/sankalp1999/Image_Captioning) (It contains a deployed caption bot also!!)
 
-- Running Locally
-- Architecture details
-- Examples
-- References
-
----
+- [Running Locally](https://github.com/sankalp1999/Image_Captioning_Without_Attention#how-to-run-on-local-machine)
+- [Architecture details](https://github.com/sankalp1999/Image_Captioning_Without_Attention#model-architecture)
+- [Examples](https://github.com/sankalp1999/Image_Captioning_Without_Attention#results)
+- [References](https://github.com/sankalp1999/Image_Captioning_Without_Attention#inferencetest-time)
 
 ---
 
@@ -120,9 +117,13 @@ Flickr8K- It is a relatively small dataset of 8000 images with 5 captions each. 
 ![08.png](examples/08.png)
 
 ### Inference(test time)
+
 ![test1.jpg](examples/test1.jpg)
+Here, you can see the model can't identify the cat.
 
 ![test2.jpg](examples/test2.jpg)
+It can identify the boat and people.
+
 
 ## References
 
