@@ -65,7 +65,7 @@ Then, we concatenate the feature vector and embedding and pass it through the de
 
 The encoder is a pre-trained Resnet-50. We extract the features from the second last layer after removing the last fully connected layer(which is used for classifcation). The Resnet-50 is trained on the ImageNet set which has 1000 classes.
 
-![feature.png](examples/features.png)
+![feature.png](examples/feature.png)
 
 ### Embedding layer
 
