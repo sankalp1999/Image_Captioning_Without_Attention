@@ -129,6 +129,8 @@ It can identify the boat and people.
 
 I referred various blogposts and some Youtube videos for learning. Although, I did this project and Show, Attend and Tell to get better at implementation and apply the concepts I learnt in the [deeplearning.ai](http://deeplearning.ai) specialization.
 
+[blog](https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8)
+
 **Papers**
 
 [Show and Tell](https://arxiv.org/abs/1411.4555)
