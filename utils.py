@@ -32,7 +32,7 @@ def show_image2(inp, index, title=None):
  
     if title is not None:
         plt.title(title)
-    name  = 'showcase' + str(index) + '.png'
+    name  = 'showcase' + str(index) + '.jpg'
     plt.savefig(name, bbox_inches='tight')
     
     plt.pause(0.001)  # pause a bit so that plots are updated

@@ -8,7 +8,7 @@ import torchvision.transforms as transforms
 import torch.nn.functional as F
 import torchvision.models as models
 from model import DecoderRNN, CNNtoRNN
-
+from utils import show_image2
 
 device = 'cpu'
 
@@ -89,10 +89,9 @@ if load_model:
 model.eval()
 
 # image_path = 'flickr8k/Images/54501196_a9ac9d66f2.jpg'
-image_path = './test_examples/child.jpg'
+image_path = './test_examples/boat.jpg'
 
 img = PIL.Image.open(image_path).convert("RGB")
-img.show()
 
 img_t = transform(img)
 
@@ -101,6 +100,8 @@ caps = model.caption_image(img_t.unsqueeze(0), vocab)
 caps = caps[1:-1]
 
 caption = ' '.join(caps)
+
+show_image2(img_t,0,caption)
 
 print(caption)
 
