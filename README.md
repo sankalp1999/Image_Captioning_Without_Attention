@@ -110,9 +110,9 @@ Flickr8K- It is a relatively small dataset of 8000 images with 5 captions each. 
 
 ![05.png](examples/01.png)
 
-### The not so good( no caption is bad!)
+### The not so good (no caption is Bad!)
 
-![14.png](examples/14.png)
+![11.png](examples/14.png)
 
 ![08.png](examples/08.png)
 
@@ -122,7 +122,7 @@ Flickr8K- It is a relatively small dataset of 8000 images with 5 captions each. 
 Here, you can see the model can't identify the cat.
 
 ![test2.jpg](examples/test2.jpg)
-It can identify the boat and people.
+It can identify the boat and people .
 
 
 ## References
