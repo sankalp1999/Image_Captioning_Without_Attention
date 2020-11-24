@@ -76,9 +76,6 @@ Vocab size : threshold = 5 2994 (Full dataset used for training)
 The threshold is the number of occurences of particular word so that it is included in the vocab which is a mapping of words to indices and vice-versa.
 
 ### Decoder
-
-![lstm.jpg](examples/lstm.jpg)
-
 The decoder is an LSTM with 2 layers. Pytorch provides nice API for this! You don't have to deal with those equations. 
 
 During train time, the model works by passing the embedding of caption along with the feature vector, getting outputs, getting loss and train by backpropagation.
