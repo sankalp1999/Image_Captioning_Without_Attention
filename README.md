@@ -5,7 +5,7 @@
 
 This repository contains the code and the files for the implementation of the Image captioning model. The implementation is similar to proposed in the paper [Show and Tell](https://arxiv.org/abs/1411.4555).
 
-This project is a stepping stone towards the version with Soft attention which has several differences in its implementation. You can check out the attention version [here.](https://github.com/sankalp1999/Image_Captioning) (It contains a deployed caption bot also!!)
+This project is a stepping stone towards the version with Soft attention which has several differences in its implementation. You can check out the attention version [here.](https://github.com/sankalp1999/Image_Captioning) (It contains a deployed caption bot also!!) This is a good starting point for somebody who has finished some online MOOCs since it involves all the concepts and various resources are available if one gets stuck. The same is not true for the attention based models.
 
 - [Running Locally](https://github.com/sankalp1999/Image_Captioning_Without_Attention#how-to-run-on-local-machine)
 - [Architecture details](https://github.com/sankalp1999/Image_Captioning_Without_Attention#model-architecture)
@@ -122,9 +122,9 @@ Here, you can see the model can't identify the cat.
 It can identify the boat and people .
 
 
-## References
+## References and Acknowledgement
 
-I referred various blogposts and some Youtube videos for learning. Although, I did this project and Show, Attend and Tell to get better at implementation and apply the concepts I learnt in the [deeplearning.ai](http://deeplearning.ai) specialization.
+I referred various blogposts and some Youtube videos for learning. I did this project and Show, Attend and Tell to get better at implementation and apply the concepts I learnt in the [deeplearning.ai](http://deeplearning.ai) specialization. Facebook's Pytorch DL framework,forum and kaggle kernels made this possible.
 
 [blog](https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8)
 
@@ -137,5 +137,6 @@ I referred various blogposts and some Youtube videos for learning. Although, I d
 Stackoverflow for 100's of bugs I faced.
 
 [aladdinpersson](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML) - He has a Youtube channel on which he makes detailed tutorials on applications using Pytorch and TensorFlow.
+
 
 ---
