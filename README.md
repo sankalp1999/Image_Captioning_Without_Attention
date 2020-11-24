@@ -5,7 +5,7 @@
 
 This repository contains the code and the files for the implementation of the Image captioning model. The implementation is similar to proposed in the paper [Show and Tell](https://arxiv.org/abs/1411.4555).
 
-This project is a stepping stone towards the version with Soft attention which has several differences in its implementation. You can check out the attention version [here.](https://github.com/sankalp1999/Image_Captioning) (It contains a deployed caption bot also!!) This is a good starting point for somebody who has finished some online MOOCs since it involves all the concepts and various resources are available if one gets stuck. The same is not true for the attention based models.
+This project is a stepping stone towards the version with Soft attention which has several differences in its implementation. You can check out the attention version [here.](https://github.com/sankalp1999/Image_Captioning) (It contains a deployed caption bot also!!) This is a good starting point for somebody who has finished some online MOOCs since it involves all the concepts and various resources are available if one gets stuck. 
 
 - [Running Locally](https://github.com/sankalp1999/Image_Captioning_Without_Attention#how-to-run-on-local-machine)
 - [Architecture details](https://github.com/sankalp1999/Image_Captioning_Without_Attention#model-architecture)
