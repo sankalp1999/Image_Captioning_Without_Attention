@@ -132,8 +132,6 @@ I referred various blogposts and some Youtube videos for learning. I did this pr
 
 [Show and Tell](https://arxiv.org/abs/1411.4555)
 
-**Implementations referred**
-
 Stackoverflow for 100's of bugs I faced.
 
 [aladdinpersson](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML) - He has a Youtube channel on which he makes detailed tutorials on applications using Pytorch and TensorFlow.
