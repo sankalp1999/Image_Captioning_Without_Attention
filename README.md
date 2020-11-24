@@ -124,7 +124,7 @@ It can identify the boat and people .
 
 ## References and Acknowledgement
 
-I referred various blogposts and some Youtube videos for learning. I did this project and Show, Attend and Tell to get better at implementation and apply the concepts I learnt in the [deeplearning.ai](http://deeplearning.ai) specialization. Facebook's Pytorch DL framework,forum and kaggle kernels made this possible.
+I referred various blogposts and some Youtube videos for learning. I did this project and Show, Attend and Tell to get better at implementation and apply the concepts I learnt in the [deeplearning.ai](http://deeplearning.ai) specialization. Facebook's Pytorch DL framework,forum and kaggle kernels(for training) made this possible.
 
 [blog](https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8)
 
